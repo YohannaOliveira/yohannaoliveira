@@ -2,7 +2,6 @@
 
 - 👀 I’m interested in back-end development.
 - 🌱 I’m currently learning Java, Java Servlet, Spring Framework, APIs, JUnit and AWS.
-- 📫 How to reach me: https://www.linkedin.com/in/yohanna-silva-oliveira/
 
 <div align="center">
   <a href="https://github.com/YohannaOliveira">
