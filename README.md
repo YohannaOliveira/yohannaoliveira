@@ -1,7 +1,7 @@
 <h1>👋 Hi, I’m Yohanna Oliveira.</h1>
 
 - 👀 I’m interested in back-end development.
-- 🌱 I’m currently learning Java, Java Servlet, Spring Framework, APIs, JUnit and AWS.
+- 🌱 I’m currently learning Java, Spring Framework, APIs, JUnit and AWS.
 
 <div align="center">
   <a href="https://github.com/YohannaOliveira">
